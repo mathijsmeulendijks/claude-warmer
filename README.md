@@ -1,6 +1,6 @@
 # claude-warmer
 
-Keeps your Claude subscription warm by sending a daily ping at 5:00 AM via the `claude` CLI.
+Keeps your Claude subscription warm by sending a daily ping at 5:05, 10:05, and 15:05 via the `claude` CLI.
 
 ## Setup
 
