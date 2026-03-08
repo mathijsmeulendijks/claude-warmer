@@ -1,0 +1,8 @@
+services:
+  warmer:
+    build: .
+    volumes:
+      - claude-credentials:/root/.claude
+
+volumes:
+  claude-credentials:
